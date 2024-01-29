@@ -10,6 +10,8 @@
 
 <table>
     <tr>
-        <td><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="120" alt="React.js Logo"/></td>
+        <td><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="90" alt="React.js Logo"/></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="80" alt="JavaScript Logo"/></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="80" alt="TypeScript Logo"/></td>
     </tr>
 </table>
