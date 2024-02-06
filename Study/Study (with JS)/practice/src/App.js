@@ -1,4 +1,5 @@
 import "./App.css";
+import LifeCycle from "./Components/LifeCycle";
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Hello, World!</h1>
       </header>
+      <LifeCycle />
     </div>
   );
 }
