@@ -5,6 +5,7 @@ import { CORE_CONCEPTS, EXAMPLES } from "./data";
 import Header from "../components/Header/Header";
 import CoreConcept from "../components/CoreConcept/CoreConcept";
 import TabButton from "../components/TabButton/TabButton";
+import Footer from "../components/Footer/Footer";
 
 function App() {
   console.log("APP COMPONENT EXECUTING");
@@ -132,6 +133,7 @@ function App() {
         </section>
         <h2>Time to get started!</h2>
       </main>
+      <Footer />
     </div>
   );
 }

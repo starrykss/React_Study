@@ -1,0 +1,19 @@
+#footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Consolas;
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+#footer a {
+  color: rgba(255, 150, 255, 0.6);
+  text-decoration: none;
+
+  &:hover {
+    color: lightgreen;
+    transition: all 0.3s;
+  }
+}
