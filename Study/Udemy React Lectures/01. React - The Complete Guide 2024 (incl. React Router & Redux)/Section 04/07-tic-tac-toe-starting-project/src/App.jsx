@@ -31,6 +31,7 @@ function deriveActivePlayer(gameTurns) {
   return currentPlayer;
 }
 
+// [함수] 게임 보드 처리
 function deriveGameBoard(gameTurns) {
   let gameBoard = [...INITIAL_GAME_BOARD.map((array) => [...array])]; // 깊은 복사
 
@@ -44,6 +45,7 @@ function deriveGameBoard(gameTurns) {
   return gameBoard;
 }
 
+// [함수] 승자 결정
 function deriveWinner(gameBoard, players) {
   let winner = null;
 
