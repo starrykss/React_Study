@@ -36,6 +36,15 @@ export default function ProjectsSidebar({
           );
         })}
       </ul>
+      <p className="text-stone-600 font-thin mt-10">
+        Made by{" "}
+        <a
+          className="hover:text-red-200 transition-all"
+          href="https://www.github.com/starrykss"
+        >
+          @starrykss
+        </a>
+      </p>
     </aside>
   );
 }
