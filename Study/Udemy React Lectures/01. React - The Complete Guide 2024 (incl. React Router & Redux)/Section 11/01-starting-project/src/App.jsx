@@ -7,6 +7,7 @@ import DeleteConfirmation from "./components/DeleteConfirmation.jsx";
 import logoImg from "./assets/logo.png";
 
 import { sortPlacesByDistance } from "./loc.js";
+import Copyright from "./components/Copyright.jsx";
 
 // 로컬 스토리지 사용 : 데이터 가져와서 뿌려주기
 const storedIds = JSON.parse(localStorage.getItem("selectedPlaces")) || [];
@@ -107,6 +108,7 @@ function App() {
           onSelectPlace={handleSelectPlace}
         />
       </main>
+      <Copyright />
     </>
   );
 }
