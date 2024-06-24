@@ -17,6 +17,9 @@ function App() {
           </li>
         ))}
       </Shop>
+      <p className="copyright" align="middle">
+        Made By <a href="https://www.github.io/starrykss">@starrykss</a>
+      </p>
     </CartContextProvider>
   );
 }
