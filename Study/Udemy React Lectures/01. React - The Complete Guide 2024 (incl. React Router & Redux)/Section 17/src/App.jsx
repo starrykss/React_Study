@@ -10,7 +10,6 @@ function App() {
       <Header />
       <main>
         <StateLogin />
-        <RefLogin />
         <Signup />
       </main>
       <Copyright />

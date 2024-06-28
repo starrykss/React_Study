@@ -43,7 +43,13 @@ export default function RefLogin() {
       <div className="control-row">
         <div className="control no-margin">
           <label htmlFor="email">Email</label>
-          <input id="email" type="email" name="email" ref={email} />
+          <input
+            id="email"
+            type="email"
+            name="email"
+            ref={email}
+            onChange={(value) => handleInputChange("email", value)}
+          />
           <div className="control-error">
             {emailIsInvalid && <p>Please enter a valid email address.</p>}
           </div>
