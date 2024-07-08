@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title": "테스트입니다.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvR4l-1Rjail-XSso7d6hEtU91YX3IDYA1gw&s",
+      "date": "2024-07-12",
+      "description": "dasdasd",
+      "id": "b61f2a73-7abb-4303-bfd8-8c979731f4a3"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$12$S2UTi4G3iWFE4oWVu6Ym/OkLrAXoqL.8UVRoC/Ra0j2WHssmdmgsS",
+      "id": "bfe4acb6-5336-408f-84f9-c138939b7580"
+    }
+  ]
+}
