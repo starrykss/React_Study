@@ -1,18 +1,1 @@
-{
-  "events": [
-    {
-      "title": "테스트입니다.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvR4l-1Rjail-XSso7d6hEtU91YX3IDYA1gw&s",
-      "date": "2024-07-12",
-      "description": "dasdasd",
-      "id": "b61f2a73-7abb-4303-bfd8-8c979731f4a3"
-    }
-  ],
-  "users": [
-    {
-      "email": "test@test.com",
-      "password": "$2a$12$S2UTi4G3iWFE4oWVu6Ym/OkLrAXoqL.8UVRoC/Ra0j2WHssmdmgsS",
-      "id": "bfe4acb6-5336-408f-84f9-c138939b7580"
-    }
-  ]
-}
+{"events":[{"title":"Gathering Together","image":"https://media.istockphoto.com/id/974238866/ko/%EC%82%AC%EC%A7%84/%ED%9A%8C%EC%9D%98%EC%97%90%EC%84%9C-%EA%B0%95%EC%82%AC%EB%A5%BC-%EC%88%98%EC%8B%A0-%ED%95%98%EB%8A%94-%EB%8C%80%EC%83%81.jpg?s=612x612&w=0&k=20&c=B6OrtMGJh0m7M6joktz-u-YesxLr61uOsCA8oNk6co4=","date":"2024-07-06","description":"Test","id":"9811430d-7e7a-43e5-acb4-e4141749f1d9"},{"title":"Job Interview","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvR4l-1Rjail-XSso7d6hEtU91YX3IDYA1gw&s","date":"2024-07-12","description":"dasdasd","id":"b61f2a73-7abb-4303-bfd8-8c979731f4a3"}],"users":[{"email":"test@test.com","password":"$2a$12$S2UTi4G3iWFE4oWVu6Ym/OkLrAXoqL.8UVRoC/Ra0j2WHssmdmgsS","id":"bfe4acb6-5336-408f-84f9-c138939b7580"},{"email":"starrykss@github.com","password":"$2a$12$XRUn2bNyj5ql6s9WjIJwSuL52watn3i7s87WQX2SqT/p/pgU0fvTW","id":"27dc596c-a7cd-456c-b7fd-fc3532cb8d5b"}]}

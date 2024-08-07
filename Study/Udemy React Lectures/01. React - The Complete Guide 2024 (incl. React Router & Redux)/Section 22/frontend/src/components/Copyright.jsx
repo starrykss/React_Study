@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 export default function Copyright() {
   return (
@@ -17,7 +17,7 @@ export default function Copyright() {
         `}
       </style>
       <p className="copyright">
-        Made By <a href="https://www.github.io/starrykss">@starrykss</a>
+        Made By <a href="https://www.github.com/starrykss">@starrykss</a>
       </p>
     </>
   );
