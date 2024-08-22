@@ -6,6 +6,8 @@
 HTML, CSS, JavaScript, SCSS, styled-components, TailwindCSS, CSS Modules, Redux, React Router, React Query(Tanstack Query), Firebase
 ```
 
+## Section Information
+
 ## 프로젝트 실행 방법
 
 ### 들어가며
