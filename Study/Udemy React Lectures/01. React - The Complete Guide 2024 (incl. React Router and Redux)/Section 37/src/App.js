@@ -2,6 +2,7 @@ import { useState } from 'react';
 
 import Expenses from './components/Expenses/Expenses';
 import NewExpense from './components/Expenses/NewExpense';
+import Copyright from './components/Copyright';
 
 const DUMMY_EXPENSES = [
   {
@@ -44,8 +45,10 @@ function App() {
 
   return (
     <div>
+      <h1 className="project_title">React Expenses</h1>
       <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses expenses={expenses} />
+      <Copyright />
     </div>
   );
 }

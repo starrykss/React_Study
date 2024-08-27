@@ -13,3 +13,10 @@ body {
   background-color: #3f3f3f;
 }
 
+.project_title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}

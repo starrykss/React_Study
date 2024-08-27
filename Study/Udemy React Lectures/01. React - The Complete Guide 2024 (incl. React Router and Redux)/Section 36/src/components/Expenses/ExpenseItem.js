@@ -8,10 +8,6 @@ import classes from './ExpenseItem.module.css';
 export function ExpenseItem({ expense }) {
   const [title, setTitle] = useState(expense.title);
 
-  function clickHandler() {
-    setTitle('Updated!');
-  }
-
   return (
     <Card className={classes['expense-item']}>
       <ExpenseDate date={expense.date} />

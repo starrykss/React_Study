@@ -3,7 +3,53 @@
 ## Stacks
 
 ```text
-HTML, CSS, JavaScript, SCSS, styled-components, TailwindCSS, CSS Modules, Redux, React Router, React Query(Tanstack Query), Firebase
+HTML, CSS, JavaScript,
+SCSS, styled-components, TailwindCSS, CSS Modules,
+Redux, React Router, React Query(Tanstack Query),
+Next.js, Framer-Motion, MongoDB, Firebase
+```
+
+## Sections
+
+```text
+Section 1. Getting Started
+Section 2. JavaScript Refresher
+Section 3. React Essentials - Components, JSX, Props, State & More
+Section 4. React Essentials - Deep Dive
+Section 5. React Essentials - Practice Project
+Section 6. Styling React Components
+Section 7. Debugging React Apps
+Section 8. Working with Refs & Portals
+Section 9. Practice Project: Project Management App (with Components, State, Refs & More)
+Section 10. React’s Context API & useReducer - Advanced State Management
+Section 11. Handling Side Effects & Working with the useEffect() Hook
+Section 12. Practice Project: Building a Quiz App
+Section 13. Behind The Scenes
+Section 14. An Alternative Way Of Building Components: Class-based Components
+Section 15. Sending Http Requests (e.g. Connecting to a Database)
+Section 16. Building Custom React Hooks
+Section 17. Working with Forms & User Input
+Section 18. Practice Project: Building a Food Order App
+Section 19. Diving into Redux (An Alternative To The Context API)
+Section 20. Advanced Redux
+Section 21. Building a Multi-Page SPA with React Router 복습 필요
+Section 22. Adding Authentication to React Apps
+Section 23. Deploying React Apps
+Section 24. React Query / Tanstack Query: Handling HTTP Requests With Ease
+Section 25. A (Pretty Deep Dive) Introduction to Next.js
+Section 26. Animating React Apps
+Section 27. React Patterns & Best Practices
+Section 28. Replacing Redux with React Hooks
+Section 29. Testing React Apps (Unit Tests)
+Section 30. React + TypeScript
+Section 31. Optional: React Summary & Core Feature Walkthrough
+Section 32. Course Roundup
+Section 33. Course Update & Old Course Content
+Section 34. BONUS / OPTIONAL React Basics & Working With Components
+Section 35. BONUS / OPTIONAL Time to Practice: Component Basics
+Section 36. BONUS / OPTIONAL React State & Working with Events
+Section 37. BONUS / OPTIONAL Rendering Lists & Conditional Content
+Section 38. BONUS / OPTIONAL Time to Practice: A Complete Practice Project
 ```
 
 ## Section Information
