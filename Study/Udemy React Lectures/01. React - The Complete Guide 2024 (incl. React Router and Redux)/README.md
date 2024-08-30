@@ -32,7 +32,7 @@ Section 17. Working with Forms & User Input
 Section 18. Practice Project: Building a Food Order App
 Section 19. Diving into Redux (An Alternative To The Context API)
 Section 20. Advanced Redux
-Section 21. Building a Multi-Page SPA with React Router 복습 필요
+Section 21. Building a Multi-Page SPA with React Router
 Section 22. Adding Authentication to React Apps
 Section 23. Deploying React Apps
 Section 24. React Query / Tanstack Query: Handling HTTP Requests With Ease
