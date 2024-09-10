@@ -15,7 +15,7 @@ const CleanUpFunction = () => {
       {toggle && <RandomComponent />}
       <br />
       <div>
-        <span>{'버튼 클릭 시 개발자 도구의 콘솔 로그를 확인해본다.'}</span>
+        <span>{'"버튼 클릭 시 개발자 도구의 콘솔 로그를 확인해본다."'}</span>
       </div>
     </div>
   );

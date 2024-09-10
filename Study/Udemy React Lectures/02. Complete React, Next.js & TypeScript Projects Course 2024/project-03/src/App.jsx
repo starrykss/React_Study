@@ -14,6 +14,11 @@ import ShortCircuitTernaryExample from './components/ShortCircuitTernaryExample'
 import ToggleChallenge from './components/ToggleChallenge';
 import UserChallenge from './components/UserChallenge';
 import CleanUpFunction from './components/CleanUpFunction';
+import LeverageJavascript from './components/LeverageJavascript';
+import ControlledInputs from './components/ControlledInputs';
+import MultipleInputs from './components/MultipleInputs';
+import OtherInputs from './components/OtherInputs';
+import UncontrolledInputs from './components/UncontrolledInputs';
 
 function App() {
   return (
@@ -34,6 +39,11 @@ function App() {
         <ToggleChallenge />
         <UserChallenge />
         <CleanUpFunction />
+        <LeverageJavascript />
+        <ControlledInputs />
+        <MultipleInputs />
+        <OtherInputs />
+        <UncontrolledInputs />
       </div>
     </div>
   );

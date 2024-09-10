@@ -1737,6 +1737,16 @@ react-is@^16.13.1:
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+"react-query@file:":
+  version "0.0.0"
+  resolved "file:"
+  dependencies:
+    "@tanstack/react-query" "^5.50.1"
+    react "^18.2.0"
+    react-dom "^18.2.0"
+    react-query "file:"
+    react-router-dom "^6.15.0"
+
 react-refresh@^0.14.2:
   version "0.14.2"
   resolved "https://registry.npmjs.org/react-refresh/-/react-refresh-0.14.2.tgz"
