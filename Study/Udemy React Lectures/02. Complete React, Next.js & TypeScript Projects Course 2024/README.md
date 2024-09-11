@@ -30,3 +30,5 @@
   - 항목 추가(CREATE)/조회(READ)/수정(UPDATE)/삭제(DELETE) 기능 구현하기
   - `react-toastify` 라이브러리를 이용하여 토스트 메시지 기능 구현하기
   - 로컬 스토리지(Local Storage)를 이용하여 입력한 내용 저장하기 및 불러오기 기능 구현하기
+- `project-14` : NavBar
+  - `useRef` 훅을 이용하여 네비게이션 바 기능 구현하기

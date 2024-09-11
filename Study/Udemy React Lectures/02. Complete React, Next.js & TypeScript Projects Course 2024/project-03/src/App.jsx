@@ -19,6 +19,9 @@ import ControlledInputs from './components/ControlledInputs';
 import MultipleInputs from './components/MultipleInputs';
 import OtherInputs from './components/OtherInputs';
 import UncontrolledInputs from './components/UncontrolledInputs';
+import UseRefExample from './components/UseRefExample';
+import ToggleCustomHook from './components/ToggleCustomHook';
+import FetchDataCustomHook from './components/FetchDataCustomHook';
 
 function App() {
   return (
@@ -44,6 +47,9 @@ function App() {
         <MultipleInputs />
         <OtherInputs />
         <UncontrolledInputs />
+        <UseRefExample />
+        <ToggleCustomHook />
+        <FetchDataCustomHook />
       </div>
     </div>
   );
