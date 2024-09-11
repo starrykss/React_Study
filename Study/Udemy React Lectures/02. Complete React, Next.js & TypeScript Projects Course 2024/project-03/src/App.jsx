@@ -22,6 +22,7 @@ import UncontrolledInputs from './components/UncontrolledInputs';
 import UseRefExample from './components/UseRefExample';
 import ToggleCustomHook from './components/ToggleCustomHook';
 import FetchDataCustomHook from './components/FetchDataCustomHook';
+import ContextApiExample from './components/ContextApiExample';
 
 function App() {
   return (
@@ -50,6 +51,7 @@ function App() {
         <UseRefExample />
         <ToggleCustomHook />
         <FetchDataCustomHook />
+        <ContextApiExample />
       </div>
     </div>
   );
