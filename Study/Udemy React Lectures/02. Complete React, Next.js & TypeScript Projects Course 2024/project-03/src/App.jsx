@@ -23,6 +23,12 @@ import UseRefExample from './components/UseRefExample';
 import ToggleCustomHook from './components/ToggleCustomHook';
 import FetchDataCustomHook from './components/FetchDataCustomHook';
 import ContextApiExample from './components/ContextApiExample';
+import UseReducerExample from './components/UseReducerExample';
+import LowerState from './components/LowerState';
+import LowerStateChallenge from './components/LowerStateChallenge';
+import ReactMemoExample from './components/ReactMemoExample';
+import UseCallbackExample from './components/UseCallbackExample';
+import UseTransitionSuspenseExample from './components/UseTransitionSuspenseExample';
 
 function App() {
   return (
@@ -52,6 +58,12 @@ function App() {
         <ToggleCustomHook />
         <FetchDataCustomHook />
         <ContextApiExample />
+        <UseReducerExample />
+        <LowerState />
+        <LowerStateChallenge />
+        <ReactMemoExample />
+        <UseCallbackExample />
+        <UseTransitionSuspenseExample />
       </div>
     </div>
   );
