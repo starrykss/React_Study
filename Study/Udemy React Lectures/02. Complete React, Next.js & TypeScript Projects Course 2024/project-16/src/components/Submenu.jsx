@@ -11,11 +11,14 @@ const Submenu = () => {
   // 현재 메뉴 찾기
   const currentPage = sublinks.find((item) => item.pageId === pageId);
 
+  // 서브메뉴 숨기기 기능
   const handleMouseLeave = (event) => {
     const submenu = submenuContainer.current;
-    const { left, right, bottom } = submenu.getBoundingClientRect();
-    const { clientX, clientY } = event;
 
+    const { left, right, bottom } = submenu.getBoundingClientRect();
+    const { clientX, clientY } = event; // 마우스 커서 위치
+
+    // 영역을 벗어날 경우 메뉴 숨기기
     if (clientX < left + 1 || clientX > right - 1 || clientY > bottom - 1) {
       setPageId(null);
     }

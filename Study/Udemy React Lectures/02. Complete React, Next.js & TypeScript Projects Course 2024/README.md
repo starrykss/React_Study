@@ -36,3 +36,18 @@
 - `project-15` : Sidebar
   - Context API를 이용하여 전역 상태 관리하기
   - 커스텀 훅을 이용하여 사이드바 기능 구현하기
+  - 상태 변수와 CSS만을 이용하여 사이드바 기능 구현하기
+- `project-16` : Strapi
+  - [strapi](https://strapi.io/) 사이드바/서브메뉴 디자인 구현하기
+    - 메뉴 항목에 마우스 호버 시, 서브메뉴 표시하기
+  - Context API를 이용하여 전역 상태 관리하기
+- `project-17` : Cart
+  - `useReducer` 훅을 이용하여 장바구니 기능 구현하기
+  - `map` 객체를 사용하여 효율적으로 자료 저장하기
+  - API 통신을 이용하여 데이터 불러와서 표시하기
+    - 데이터를 불러오는 동안 로딩 스피너 표시하기
+
+## Tutorials
+
+- `tutorial-axios` : Axios HTTP Library
+- `tutorial-react-query` : React Query
