@@ -53,6 +53,8 @@
     - 로컬 스토리지(Local Storage)를 이용하여 테마 모드 적용 상태 저장하기
   - React Query를 이용하여 무한 스크롤 기능 구현하기
   - 이미지 로딩 시, 스켈레톤(Skeleton) 표시 기능 구현하기
+- `project-19` : Contentful
+  - Headless CMS 중 하나인 [`Contentful`](https://www.contentful.com/)과 통신 기능 구현하기
 
 ## Tutorials
 
