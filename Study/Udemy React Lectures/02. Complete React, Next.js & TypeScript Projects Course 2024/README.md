@@ -46,6 +46,13 @@
   - `map` 객체를 사용하여 효율적으로 자료 저장하기
   - API 통신을 이용하여 데이터 불러와서 표시하기
     - 데이터를 불러오는 동안 로딩 스피너 표시하기
+- `project-18` : Unsplash Images
+  - React Query, Axios를 이용하여 [Unsplash API](https://unsplash.com/developers) 통신 기능 구현하기
+  - 검색창에 특정 문자를 검색하면, 해당 문자와 관련된 이미지가 표시되도록 하기
+  - Context API를 이용하여 다크 모드 기능 구현하기
+    - 로컬 스토리지(Local Storage)를 이용하여 테마 모드 적용 상태 저장하기
+  - React Query를 이용하여 무한 스크롤 기능 구현하기
+  - 이미지 로딩 시, 스켈레톤(Skeleton) 표시 기능 구현하기
 
 ## Tutorials
 
