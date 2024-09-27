@@ -56,13 +56,16 @@
 - `project-19` : Contentful
   - Headless CMS 중 하나인 [`Contentful`](https://www.contentful.com/)과 통신 기능 구현하기
 - `project-20` : MixMaster
-  - React Router와 React Query를 이용하여 [`CocktailDB API`](https://www.thecocktaildb.com/) 통신 기능 구현하기
+  - React Router와 React Query, Axios를 이용하여 [`CocktailDB API`](https://www.thecocktaildb.com/) 통신 기능 구현하기
   - 구성
     - `react-router-version` : React Router로만 만든 버전
     - `react-query-version` : React Router와 React Query로 만든 버전
   - FormData API를 이용하여 폼 처리 기능 구현하기
   - React Router를 이용하여 검색 기능 구현하기
   - React Query를 이용하여 캐시 기능 구현하기
+- `project-21` : WebDev Portfolio
+  - React와 Tailwind CSS를 이용하여 포트폴리오 페이지 구현하기
+  - 반응형 디자인 구현하기
 
 ## Tutorials
 

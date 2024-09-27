@@ -6,4 +6,5 @@ const SinglePageError = () => {
 
   return <h2>{error.message}</h2>;
 };
+
 export default SinglePageError;
