@@ -7,7 +7,7 @@ const url = 'https://www.course-api.com/react-useReducer-cart-project';
 
 // 상태 초기값 설정하기
 const initialState = {
-  cartItems: [], // cartItems
+  cartItems: [],
   amount: 0,
   total: 0,
   isLoading: true,

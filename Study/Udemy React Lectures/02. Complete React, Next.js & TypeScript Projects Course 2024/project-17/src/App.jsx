@@ -1,6 +1,7 @@
 // components
 import Navbar from './components/Navbar';
 import CartContainer from './components/CartContainer';
+import Copyright from './components/Copyright';
 
 import { useGlobalContext } from './contexts/context';
 
@@ -19,6 +20,7 @@ function App() {
     <main>
       <Navbar />
       <CartContainer />
+      <Copyright />
     </main>
   );
 }

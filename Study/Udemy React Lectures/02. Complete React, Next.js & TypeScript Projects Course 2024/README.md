@@ -66,6 +66,18 @@
 - `project-21` : WebDev Portfolio
   - React와 Tailwind CSS를 이용하여 포트폴리오 페이지 구현하기
   - 반응형 디자인 구현하기
+- `project-22` : Cart
+  - Redux Toolkit을 이용하여 장바구니 기능 구현하기
+  - 모달 창 기능 구현하기
+  - 프로젝트의 데이터 파일에서 데이터 불러오는 기능 구현하기
+  - Axios를 이용하여 API 통신 후 데이터 불러오는 기능 구현하기
+  - 관련 프로젝트 : `project-17`
+    - `useReducer` 훅을 이용하여 장바구니 기능 구현하기
+- `project-23` : Comfy Store
+  - React Router, React Query, Redux Toolkit을 이용하여 쇼핑몰 기능 구현하기
+  - daisyUI 라이브러리를 이용하여 스타일 적용하기
+  - 로컬 스토리지를 이용한 다크/라이트 토글 기능 구현하기
+  - React Toastify를 이용하여 알림 메시지 표시 기능 구현하기
 
 ## Tutorials
 

@@ -11,7 +11,7 @@ import {
 } from './actions';
 
 import cartItems from '../data';
-import { getTotals } from '../utils';
+import { getTotals } from '../utils/utils';
 
 const url = 'https://www.course-api.com/react-useReducer-cart-project';
 
