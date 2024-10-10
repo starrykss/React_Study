@@ -21,6 +21,8 @@ export const action = async ({ request }) => {
       'Please double check your credentials.';
 
     toast.error(errorMessage);
+
+    return redirect('/register');
   }
 };
 

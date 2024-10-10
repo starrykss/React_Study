@@ -75,11 +75,13 @@
     - `useReducer` 훅을 이용하여 장바구니 기능 구현하기
 - `project-23` : Comfy Store
   - React Router, React Query, Redux Toolkit을 이용하여 쇼핑몰 기능 구현하기
-  - daisyUI 라이브러리를 이용하여 스타일 적용하기
+  - daisyUI 테일윈드CSS 라이브러리를 이용하여 스타일 적용하기
   - 로컬 스토리지를 이용한 다크/라이트 토글 기능 구현하기
   - React Toastify를 이용하여 알림 메시지 표시 기능 구현하기
+  - 로그인/로그아웃 기능 구현하기
 
 ## Tutorials
 
 - `tutorial-axios` : Axios HTTP Library
 - `tutorial-react-query` : React Query
+- `tutorial-typescript`: TypeScript

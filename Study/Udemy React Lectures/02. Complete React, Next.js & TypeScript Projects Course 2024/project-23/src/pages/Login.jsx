@@ -60,7 +60,7 @@ const Login = () => {
       // 홈 화면으로 이동
       navigate('/');
     } catch (error) {
-      console.log(error);
+      // console.log(error);
       toast.error('Guest user login error, please try again.');
     }
   };

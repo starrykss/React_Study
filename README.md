@@ -60,6 +60,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="80" alt="Vite Logo" title="Vite"/>
       </td>
       <td>
+        <img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" width="80" alt="daisyUI Logo" title="daisyUI"/>
       </td>
       <td>
       </td>
