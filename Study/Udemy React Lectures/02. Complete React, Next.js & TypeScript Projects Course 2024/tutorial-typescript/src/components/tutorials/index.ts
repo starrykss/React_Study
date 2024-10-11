@@ -9,5 +9,8 @@ import './TypeAssertionAndUnknownAndNever';
 import './Module';
 import './TypeGuarding';
 import './Generics';
+import './FetchData';
+
+import { Random } from './types';
 
 console.log('TypeScript Tutorial');
