@@ -10,6 +10,7 @@ import './Module';
 import './TypeGuarding';
 import './Generics';
 import './FetchData';
+import './Class';
 
 import { Random } from './types';
 
