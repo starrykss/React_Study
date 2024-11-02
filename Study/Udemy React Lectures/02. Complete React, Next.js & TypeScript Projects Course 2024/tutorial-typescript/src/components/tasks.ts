@@ -68,12 +68,12 @@ function renderTask(task: Task): void {
   const taskElement = document.createElement('li');
   taskElement.textContent = task.description;
 
-  // 체크박스
+  // 체크박스 생성하기
   const taskCheckbox = document.createElement('input');
   taskCheckbox.type = 'checkbox';
   taskCheckbox.checked = task.isCompleted;
 
-  // 체크박스 토글 이벤트 추가
+  // 체크박스에 토글 이벤트 추가하기
   taskCheckbox.addEventListener('change', () => {
     task.isCompleted = !task.isCompleted;
     updateStorage();

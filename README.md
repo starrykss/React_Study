@@ -63,6 +63,7 @@
         <img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" width="80" alt="daisyUI Logo" title="daisyUI"/>
       </td>
       <td>
+        <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="80" alt="shadcn/ui Logo" title="shadcn/ui"/>
       </td>
     </tr>
 </table>

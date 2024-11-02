@@ -79,9 +79,21 @@
   - 로컬 스토리지를 이용한 다크/라이트 토글 기능 구현하기
   - React Toastify를 이용하여 알림 메시지 표시 기능 구현하기
   - 로그인/로그아웃 기능 구현하기
+- `project-24` : Next Store
+  - Next.js, TypeScript를 이용하여 쇼핑몰 기능 구현하기
+  - `shadcn/ui` 라이브러리를 이용하여 UI 구성
+  - [Supabase](https://supabase.com/), [Prisma](https://www.prisma.io/)를 이용하여 DB 구성
+    - 상품 이미지 업로드 및 공개 URL 값 가져오기
+  - [Clerk](https://www.clerk.com/)를 이용하여 인증(Authentication) 기능 구현 (이메일/소셜 계정 로그인, 로그아웃 등)
+  - 관리자(Admin) 페이지 구현
+  - [Zod](https://zod.dev/) 라이브러리를 이용하여 타입 검증과 스키마 유효성 검사 수행
+  - [React Share](https://www.npmjs.com/package/react-share) 라이브러리를 이용하여 상품 페이지 공유 기능 구현
+  - [Stripe](https://stripe.com/)를 이용하여 결제 기능 구현
 
 ## Tutorials
 
 - `tutorial-axios` : Axios HTTP Library
 - `tutorial-react-query` : React Query
 - `tutorial-typescript`: TypeScript
+- `tutorial-react-with-typescript` : React with TypeScript
+- `tutorial-nextjs` : Next.js (with TypeScript)
