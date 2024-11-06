@@ -22,7 +22,7 @@ const CheckoutPage = () => {
 
   // Client Secret 정보 가져오기
   const fetchClientSecret = useCallback(async () => {
-    // 결제 세션 생성하기
+    // 결제 세션 생성하기 (/app/api/payment)
     const response = await axios.post('/api/payment', {
       orderId: orderId,
       cartId: cartId,

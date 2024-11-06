@@ -89,6 +89,13 @@
   - [Zod](https://zod.dev/) 라이브러리를 이용하여 타입 검증과 스키마 유효성 검사 수행
   - [React Share](https://www.npmjs.com/package/react-share) 라이브러리를 이용하여 상품 페이지 공유 기능 구현
   - [Stripe](https://stripe.com/)를 이용하여 결제 기능 구현
+- `project-25` : Jobify
+  - Next.js, TypeScript를 이용하여 구직 공고 등록 사이트 기능 구현하기
+  - `shadcn/ui` 라이브러리를 이용하여 UI 구성
+  - [Render](https://render.com/), [Prisma](https://www.prisma.io/)를 이용하여 DB 구성
+  - [Clerk](https://www.clerk.com/)를 이용하여 인증(Authentication) 기능 구현 (이메일/소셜 계정 로그인, 로그아웃 등)
+  - [Zod](https://zod.dev/) 라이브러리를 이용하여 타입 검증과 스키마 유효성 검사 수행
+  - [Recharts](https://recharts.org/) 라이브러리를 이용하여 차트 기능 구현
 
 ## Tutorials
 

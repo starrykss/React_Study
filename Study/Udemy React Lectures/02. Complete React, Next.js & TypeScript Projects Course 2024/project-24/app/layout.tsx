@@ -7,6 +7,7 @@ import './globals.css';
 import Navbar from '@/components/navbar/Navbar';
 import Container from '@/components/global/Container';
 import Providers from './providers';
+import Copyright from '@/components/home/Copyright';
 
 const geistSans = localFont({
   src: './fonts/GeistVF.woff',
@@ -41,6 +42,7 @@ export default function RootLayout({
           <Providers>
             <Navbar />
             <Container className='py-20'>{children}</Container>
+            <Copyright />
           </Providers>
         </body>
       </html>

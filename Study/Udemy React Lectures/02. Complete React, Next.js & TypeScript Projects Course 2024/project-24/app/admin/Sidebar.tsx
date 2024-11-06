@@ -17,7 +17,7 @@ const Sidebar = () => {
         return (
           <Button
             asChild
-            className="w-full mb-2 capitalize font-normal justify-start"
+            className='w-full mb-2 capitalize font-normal justify-start'
             variant={variant}
           >
             <Link key={link.href} href={link.href}>
