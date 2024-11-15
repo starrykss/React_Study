@@ -96,6 +96,16 @@
   - [Clerk](https://www.clerk.com/)를 이용하여 인증(Authentication) 기능 구현 (이메일/소셜 계정 로그인, 로그아웃 등)
   - [Zod](https://zod.dev/) 라이브러리를 이용하여 타입 검증과 스키마 유효성 검사 수행
   - [Recharts](https://recharts.org/) 라이브러리를 이용하여 차트 기능 구현
+  - [Mockaroo](https://www.mockaroo.com/)를 이용하여 가상 데이터 1,000개 생성 및 추가
+- `project-26` : Jobster
+  - `project-25`(Jobify) 프로젝트를 JavaScript와 Redux-Toolkit, React Router, Styled-Components을 이용하여 만든 프로젝트
+    - `project-25`의 기능 일부 구현 및 몇 가지 새로운 기능 추가
+  - [`normalize.css`](https://necolas.github.io/normalize.css/)를 사용하여 다양한 브라우저에서 HTML 요소의 스타일이 일관되게 보여지도록 설정
+  - [moment.js](https://momentjs.com/) 라이브러리를 이용하여 날짜 및 시간 표시 기능 구현
+  - 테스트 계정 로그인 기능 구현 (구직 공고 추가/수정/삭제 불가, 읽기 전용)
+  - [Recharts](https://recharts.org/) 라이브러리를 이용하여 차트 기능 구현
+  - 디바운스(Debounce) 기능을 직접 구현하여 검색 기능에 적용
+  - 반응형 디자인 구현
 
 ## Tutorials
 
