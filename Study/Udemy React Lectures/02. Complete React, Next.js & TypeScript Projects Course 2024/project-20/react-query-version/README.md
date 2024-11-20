@@ -562,7 +562,7 @@ import { useLoaderData } from 'react-router-dom';
 import axios from 'axios';
 
 const cocktailSearchUrl =
-  'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=';
+  'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=a';
 
 export const loader = async () => {
   const searchTerm = 'margarita';

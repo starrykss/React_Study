@@ -90,13 +90,13 @@
   - [React Share](https://www.npmjs.com/package/react-share) 라이브러리를 이용하여 상품 페이지 공유 기능 구현
   - [Stripe](https://stripe.com/)를 이용하여 결제 기능 구현
 - `project-25` : Jobify
-  - Next.js, TypeScript를 이용하여 구직 공고 등록 사이트 기능 구현하기
+  - Next.js, Typ//recharts.org/) 라이브러리를 이용하여 차트 기능 구현
+  - [Mockaroo](https:eScript를 이용하여 구직 공고 등록 사이트 기능 구현하기
   - `shadcn/ui` 라이브러리를 이용하여 UI 구성
   - [Render](https://render.com/), [Prisma](https://www.prisma.io/)를 이용하여 DB 구성
   - [Clerk](https://www.clerk.com/)를 이용하여 인증(Authentication) 기능 구현 (이메일/소셜 계정 로그인, 로그아웃 등)
   - [Zod](https://zod.dev/) 라이브러리를 이용하여 타입 검증과 스키마 유효성 검사 수행
-  - [Recharts](https://recharts.org/) 라이브러리를 이용하여 차트 기능 구현
-  - [Mockaroo](https://www.mockaroo.com/)를 이용하여 가상 데이터 1,000개 생성 및 추가
+  - [Recharts](https://www.mockaroo.com/)를 이용하여 가상 데이터 1,000개 생성 및 추가
 - `project-26` : Jobster
   - `project-25`(Jobify) 프로젝트를 JavaScript와 Redux-Toolkit, React Router, Styled-Components을 이용하여 만든 프로젝트
     - `project-25`의 기능 일부 구현 및 몇 가지 새로운 기능 추가
@@ -104,8 +104,17 @@
   - [moment.js](https://momentjs.com/) 라이브러리를 이용하여 날짜 및 시간 표시 기능 구현
   - 테스트 계정 로그인 기능 구현 (구직 공고 추가/수정/삭제 불가, 읽기 전용)
   - [Recharts](https://recharts.org/) 라이브러리를 이용하여 차트 기능 구현
+  - [React Toastify](https://www.npmjs.com/package/react-toastify) 라이브러리를 이용하여 토스트 메시지 표시 기능 구현
+- [React Icons](https://react-icons.github.io/react-icons/) 라이브러리를 이용하여 화면에 보여지는 아이콘 구성
   - 디바운스(Debounce) 기능을 직접 구현하여 검색 기능에 적용
   - 반응형 디자인 구현
+- `project-27` : GitHub Users
+  - GitHub API를 이용하여 GitHub 사용자를 검색한 후, 해당 사용자의 정보를 확인할 수 있는 페이지
+    - GitHub API 정책 상, 동일한 IP에서 <ins>1시간에 60번</ins>의 API 호출만 가능하다.
+  - React.js, Styled-Components, React Router를 사용하여 구현
+  - Context API를 이용하여 전역 상태 관리 기능 구현
+  - [`Auth0`](https://auth0.com/)를 이용하여 인증(Authentication) 기능 구현
+  - [FusionCharts](https://www.fusioncharts.com/) 라이브러리를 이용하여 GitHub 계정 통계 정보를 차트에 표시하는 기능 구현
 
 ## Tutorials
 

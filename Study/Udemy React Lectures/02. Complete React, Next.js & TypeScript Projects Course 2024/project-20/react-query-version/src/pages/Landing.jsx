@@ -7,13 +7,15 @@ import SearchForm from '../components/SearchForm';
 import Copyright from '../components/Copyright';
 
 const cocktailSearchUrl =
-  'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=';
+  'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=a';
 
 const searchCocktailsQuery = (searchTerm) => {
   return {
     queryKey: ['search', searchTerm || 'all'],
     queryFn: async () => {
+      searchTerm = searchTerm || 'a'; // UPDATE
       const response = await axios.get(`${cocktailSearchUrl}${searchTerm}`);
+
       return response.data.drinks;
     },
   };

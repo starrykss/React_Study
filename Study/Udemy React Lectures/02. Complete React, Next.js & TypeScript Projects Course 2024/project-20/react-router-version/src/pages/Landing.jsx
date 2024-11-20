@@ -5,7 +5,7 @@ import CocktailList from './CocktailList';
 import SearchForm from '../components/SearchForm';
 
 const cocktailSearchUrl =
-  'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=';
+  'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=a';
 
 // loader는 항상 무언가를 return 해야 한다.
 export const loader = async ({ request }) => {

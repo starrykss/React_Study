@@ -6,7 +6,6 @@ import { toggleSidebar } from '../features/user/userSlice';
 
 import Logo from './Logo';
 import NavLinks from './NavLinks';
-import { Link } from 'react-router-dom';
 
 const SmallSidebar = () => {
   const { isSidebarOpen } = useSelector((store) => store.user);
@@ -29,9 +28,7 @@ const SmallSidebar = () => {
             <FaTimes />
           </button>
           <header>
-            <Link>
-              <Logo />
-            </Link>
+            <Logo />
           </header>
           {/* NAVIGATION LINKS */}
           <NavLinks toggleSidebar={toggle} />
