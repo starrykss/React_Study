@@ -33,7 +33,7 @@ const Wrapper = styled.section`
   img {
     margin-bottom: 2rem;
     margin: 1rem auto;
-    width: 80%;
+    width: 400px;
   }
 
   h1 {
