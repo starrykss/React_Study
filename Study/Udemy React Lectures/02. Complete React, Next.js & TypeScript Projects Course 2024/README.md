@@ -113,7 +113,7 @@
     - GitHub API 정책 상, 동일한 IP에서 <ins>1시간에 60번</ins>의 API 호출만 가능하다.
   - React.js, Styled-Components, React Router를 사용하여 구현
   - Context API를 이용하여 전역 상태 관리 기능 구현
-  - [`Auth0`](https://auth0.com/)를 이용하여 인증(Authentication) 기능 구현
+  - [Auth0](https://auth0.com/)를 이용하여 인증(Authentication) 기능 구현
   - [FusionCharts](https://www.fusioncharts.com/) 라이브러리를 이용하여 GitHub 계정 통계 정보를 차트에 표시하는 기능 구현
 
 ## Tutorials
