@@ -1,12 +1,15 @@
-# ReactJS_Study
+# React_Study
 
 ## 레포지토리 소개
 
-- **React.jS** 를 공부한 내용을 기록한 레포지토리
+- **React** 를 공부한 내용을 기록한 레포지토리
+  - React.js
+  - React Native
 - Reference 📖
   - [_Do it! 리액트 프로그래밍 정석_](https://github.com/justinpark/justin-do-it-react)
   - _Do it! 리액트 모던 웹 개발 with 타입스크립트_
   - [_Reactjs.org Docs_](https://legacy.reactjs.org/docs/getting-started.html)
+  - [_React Native Docs_](https://reactnative.dev/docs/getting-started)
   - _Udemy React Lectures_
 
 <table>
@@ -35,7 +38,7 @@
         <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="80" alt="Redux Logo" title="Redux"/>
       </td>
       <td>
-        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width="80" alt="Next.js Logo" title="Next.js"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="80" alt="Next.js Logo" title="Next.js"/>
       </td>
     </tr>
     <tr>
@@ -64,6 +67,17 @@
       </td>
       <td>
         <img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="80" alt="shadcn/ui Logo" title="shadcn/ui"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="80" alt="React Native Logo" title="React Native"/>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
       </td>
     </tr>
 </table>
