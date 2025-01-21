@@ -1,9 +1,10 @@
 import { useState } from 'react';
-import { StyleSheet, View, FlatList, Button, Text } from 'react-native';
+import { StyleSheet, View, FlatList, Button } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 
 import GoalItem from './components/GoalItem';
 import GoalInput from './components/GoalInput';
+import Copyright from './components/Copyright';
 
 export default function App() {
   const [modalIsVisible, setModalIsVisible] = useState(false);
@@ -87,9 +88,7 @@ export default function App() {
         </View>
 
         {/* Copyright */}
-        <Text style={{ color: '#ffcdcdb0', textAlign: 'center', padding: 20 }}>
-          Made By @starrykss
-        </Text>
+        <Copyright />
       </View>
     </>
   );

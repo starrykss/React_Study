@@ -50,6 +50,8 @@ Section 35. BONUS / OPTIONAL Time to Practice: Component Basics
 Section 36. BONUS / OPTIONAL React State & Working with Events
 Section 37. BONUS / OPTIONAL Rendering Lists & Conditional Content
 Section 38. BONUS / OPTIONAL Time to Practice: A Complete Practice Project
+Section 39. UPDATED / Handling Forms via Form Actions (React 19)
+Section 40. UPDATED / React Server Components (RSC) & Server Actions - A Closer Look  (React 19)
 ```
 
 ## Section Information
