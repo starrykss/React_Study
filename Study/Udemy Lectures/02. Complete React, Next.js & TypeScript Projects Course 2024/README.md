@@ -90,8 +90,8 @@
   - [React Share](https://www.npmjs.com/package/react-share) 라이브러리를 이용하여 상품 페이지 공유 기능 구현
   - [Stripe](https://stripe.com/)를 이용하여 결제 기능 구현
 - `project-25` : Jobify
-  - Next.js, Typ//recharts.org/) 라이브러리를 이용하여 차트 기능 구현
-  - [Mockaroo](https:eScript를 이용하여 구직 공고 등록 사이트 기능 구현하기
+  - Next.js, [`recharts`](http://recharts.org/) 라이브러리를 이용하여 차트 기능 구현
+  - (Mockaroop)[https://www.mockaroo.com/]와 TypeScript를 이용하여 구직 공고 등록 사이트 기능 구현하기
   - `shadcn/ui` 라이브러리를 이용하여 UI 구성
   - [Render](https://render.com/), [Prisma](https://www.prisma.io/)를 이용하여 DB 구성
   - [Clerk](https://www.clerk.com/)를 이용하여 인증(Authentication) 기능 구현 (이메일/소셜 계정 로그인, 로그아웃 등)
@@ -115,6 +115,11 @@
   - Context API를 이용하여 전역 상태 관리 기능 구현
   - [Auth0](https://auth0.com/)를 이용하여 인증(Authentication) 기능 구현
   - [FusionCharts](https://www.fusioncharts.com/) 라이브러리를 이용하여 GitHub 계정 통계 정보를 차트에 표시하는 기능 구현
+- `project-28` : Search GitHub Users
+  - GraphQL, Apollo Client, TypeScript, `shadcn/ui` 라이브러리를 이용하여 구현한 GitHub 사용자 검색 페이지
+    - GitHub GraphQL API를 이용하여 데이터 불러오기 기능 구현
+  - [`recharts`](http://recharts.org/) 라이브러리를 이용하여 차트 기능 구현
+  - 간단한 스켈레톤 기능 구현
 
 ## Tutorials
 
