@@ -32,7 +32,7 @@
         <img src="https://www.svgrepo.com/show/354262/react-router.svg" width="80" alt="React-Router Logo" title="React-Router"/>
       </td>
       <td>
-        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="80" alt="React-Query Logo" title="React-Query"/>
+        <img src="https://images.velog.io/images/woohm402/post/57671ac6-0481-4529-9ed8-eec5d4a2b46a/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="80" alt="React-Query Logo" title="React-Query"/>
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="80" alt="Redux Logo" title="Redux"/>
